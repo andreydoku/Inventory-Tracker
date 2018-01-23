@@ -1,0 +1,629 @@
+Products Price: $588.00
+Shipping Price: $7.05
+Mod Price: $8.00
+Buyer: 
+Sale Date: 10/23/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 33
+-----------------------------------------
+Products Price: $12.80
+Shipping Price: $1.70
+Mod Price: $0.00
+Buyer: cregal
+Sale Date: 10/23/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 1
+-----------------------------------------
+Products Price: $12.00
+Shipping Price: $2.60
+Mod Price: $0.00
+Buyer: 999planestuff
+Sale Date: 10/23/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 2
+-----------------------------------------
+Products Price: $12.00
+Shipping Price: $2.60
+Mod Price: $0.00
+Buyer: frostbite2600
+Sale Date: 10/23/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 3
+-----------------------------------------
+Products Price: $588.00
+Shipping Price: $7.05
+Mod Price: $17.00
+Buyer: 
+Sale Date: 10/23/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 34
+-----------------------------------------
+Products Price: $38.40
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: srush9
+Sale Date: 10/24/11
+Sale ID: 
+Tracking #: 9101150134711980089242
+Ebay: true
+Product Indexes: 4,5,6
+-----------------------------------------
+Products Price: $12.80
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: cregal
+Sale Date: 10/24/11
+Sale ID: 
+Tracking #: 9101128882300921170553
+Ebay: true
+Product Indexes: 7
+-----------------------------------------
+Products Price: $13.80
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: dspiry
+Sale Date: 10/24/11
+Sale ID: 
+Tracking #: 9101785091401307409388
+Ebay: true
+Product Indexes: 8
+-----------------------------------------
+Products Price: $12.95
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: huntnm
+Sale Date: 10/25/11
+Sale ID: 
+Tracking #: 9101785091401307410773
+Ebay: true
+Product Indexes: 9
+-----------------------------------------
+Products Price: $570.00
+Shipping Price: $7.05
+Mod Price: $12.00
+Buyer: tera.hammerly@yahoo.com
+Sale Date: 10/26/11
+Sale ID: #2AC36486517209617
+Tracking #: 
+Ebay: true
+Product Indexes: 0,13,35,23
+-----------------------------------------
+Products Price: $12.95
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: exiniabrian2009
+Sale Date: 10/26/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 10
+-----------------------------------------
+Products Price: $64.75
+Shipping Price: $4.29
+Mod Price: $0.00
+Buyer: serioga19
+Sale Date: 10/28/11
+Sale ID: 320780659707
+Tracking #: 
+Ebay: true
+Product Indexes: 11,12,49,50,51
+-----------------------------------------
+Products Price: $550.00
+Shipping Price: $12.43
+Mod Price: $12.00
+Buyer: conway656
+Sale Date: 11/04/11
+Sale ID: 180749081773
+Tracking #: 
+Ebay: true
+Product Indexes: 14,36,54
+-----------------------------------------
+Products Price: $540.00
+Shipping Price: $6.80
+Mod Price: $4.50
+Buyer: ilyakachenko
+Sale Date: 11/07/11
+Sale ID: 180749128659
+Tracking #: 
+Ebay: true
+Product Indexes: 53
+-----------------------------------------
+Products Price: $0.00
+Shipping Price: $0.00
+Mod Price: $0.00
+Buyer: 
+Sale Date: 11/07/11
+Sale ID: Part of iPhone above
+Tracking #: 
+Ebay: true
+Product Indexes: 24
+-----------------------------------------
+Products Price: $525.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: kycoach
+Sale Date: 11/13/11
+Sale ID: 180753747072
+Tracking #: 9121785091401346693926 Requested to send to other
+Ebay: true
+Product Indexes: 78,48
+-----------------------------------------
+Products Price: $535.00
+Shipping Price: $6.80
+Mod Price: $6.50
+Buyer: nenovk
+Sale Date: 12/03/11
+Sale ID: 180762474859
+Tracking #: 
+Ebay: true
+Product Indexes: 82
+-----------------------------------------
+Products Price: $492.00
+Shipping Price: $6.80
+Mod Price: $1.00
+Buyer: zz4yukon
+Sale Date: 12/09/11
+Sale ID: 180772112102
+Tracking #: 
+Ebay: true
+Product Indexes: 15,55,70,83,156,46
+-----------------------------------------
+Products Price: $540.00
+Shipping Price: $13.00
+Mod Price: $6.00
+Buyer: Olganovikova2011
+Sale Date: 12/09/11
+Sale ID: EXCHANGED
+Tracking #: 
+Ebay: true
+Product Indexes: 16,56,71,80
+-----------------------------------------
+Products Price: $560.00
+Shipping Price: $6.80
+Mod Price: $2.00
+Buyer: Michael Pearson
+Sale Date: 12/12/11
+Sale ID: My PAYPAL
+Tracking #: MY PAYPAL
+Ebay: false
+Product Indexes: 17,37,38,89,147,157,25
+-----------------------------------------
+Products Price: $550.00
+Shipping Price: $6.80
+Mod Price: $7.00
+Buyer: joyrx
+Sale Date: 12/13/11
+Sale ID: 180774419472
+Tracking #: 
+Ebay: true
+Product Indexes: 22,57,79,85,123,158,26
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: mzis6k
+Sale Date: 12/14/11
+Sale ID: 180774410592
+Tracking #: 
+Ebay: true
+Product Indexes: 18,39,90,159,177,27
+-----------------------------------------
+Products Price: $492.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: tirpitz350us
+Sale Date: 12/18/11
+Sale ID: 180778147229
+Tracking #: 
+Ebay: true
+Product Indexes: 20,58,93,118,148,160,178,29
+-----------------------------------------
+Products Price: $9.20
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: markaphay
+Sale Date: 12/19/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 180
+-----------------------------------------
+Products Price: $11.00
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: qhnguyen
+Sale Date: 12/22/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 186
+-----------------------------------------
+Products Price: $9.20
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: cordman68
+Sale Date: 12/22/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 181
+-----------------------------------------
+Products Price: $525.00
+Shipping Price: $0.00
+Mod Price: $0.00
+Buyer: Chambero
+Sale Date: 12/22/11
+Sale ID: PAYPAL
+Tracking #: 
+Ebay: false
+Product Indexes: 21,59,88,117,161,228,28
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: bowein101
+Sale Date: 12/23/11
+Sale ID: 180774413995
+Tracking #: 420315229121785091401435057714
+Ebay: true
+Product Indexes: 60,119,162,227,45,32
+-----------------------------------------
+Products Price: $9.20
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: 
+Sale Date: 12/23/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 182
+-----------------------------------------
+Products Price: $590.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: pa2re
+Sale Date: 12/25/11
+Sale ID: PAYPAL
+Tracking #: 
+Ebay: false
+Product Indexes: 81,97,120,163,44,30
+-----------------------------------------
+Products Price: $9.20
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: scm1d
+Sale Date: 12/25/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 183
+-----------------------------------------
+Products Price: $12.70
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: joseph9958
+Sale Date: 12/25/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 187
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: dezertrob2thec
+Sale Date: 12/27/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 185
+-----------------------------------------
+Products Price: $575.00
+Shipping Price: $0.00
+Mod Price: $6.00
+Buyer: cjaurem
+Sale Date: 12/27/11
+Sale ID: 180781631938
+Tracking #: 
+Ebay: true
+Product Indexes: 61,72,98,121,164,179,230,31
+-----------------------------------------
+Products Price: $0.00
+Shipping Price: $0.00
+Mod Price: $0.00
+Buyer: 
+Sale Date: 12/30/11
+Sale ID: BAD
+Tracking #: 
+Ebay: true
+Product Indexes: 221
+-----------------------------------------
+Products Price: $0.00
+Shipping Price: $0.00
+Mod Price: $0.00
+Buyer: 
+Sale Date: 12/30/11
+Sale ID: GIVEN TO CHAMBERo
+Tracking #: 
+Ebay: true
+Product Indexes: 222
+-----------------------------------------
+Products Price: $22.40
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: clarsksvillecomputers
+Sale Date: 12/30/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 184,381
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: d14ff
+Sale Date: 12/30/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 382
+-----------------------------------------
+Products Price: $13.70
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: qqquaker
+Sale Date: 12/30/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 188
+-----------------------------------------
+Products Price: $13.70
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: vdominguez
+Sale Date: 12/30/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 189
+-----------------------------------------
+Products Price: $13.70
+Shipping Price: $1.75
+Mod Price: $0.00
+Buyer: cseller20
+Sale Date: 12/30/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 191
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: chuchumaca
+Sale Date: 12/30/11
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 63,124,149,166,220,229
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $2.00
+Buyer: zoo1357land
+Sale Date: 01/02/12
+Sale ID: 180786559201
+Tracking #: 
+Ebay: true
+Product Indexes: 73,100,125,150,167,224,336
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: sweetfacep
+Sale Date: 01/04/12
+Sale ID: 180786559201
+Tracking #: 
+Ebay: true
+Product Indexes: 126,168,231,335,342
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $2.00
+Buyer: daduna2012
+Sale Date: 01/09/12
+Sale ID: 180790253150
+Tracking #: 
+Ebay: true
+Product Indexes: 74,94,101,127,169,337,355,384
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $6.00
+Buyer: gonagai1
+Sale Date: 01/10/12
+Sale ID: 180790269045
+Tracking #: 
+Ebay: true
+Product Indexes: 64,75,102,128,170,338,385
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $18.80
+Mod Price: $0.00
+Buyer: jorgelrguez
+Sale Date: 01/12/12
+Sale ID: 180790269045
+Tracking #: 420331269410803699300026990493
+Ebay: true
+Product Indexes: 62,86,99,122,165,223,226
+-----------------------------------------
+Products Price: $5.52
+Shipping Price: $0.00
+Mod Price: $0.00
+Buyer: 
+Sale Date: 01/14/12
+Sale ID: SHAZIM
+Tracking #: 
+Ebay: true
+Product Indexes: 47
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: Lopezmmmm
+Sale Date: 01/17/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 76,103,151,171,406,407
+-----------------------------------------
+Products Price: $470.00
+Shipping Price: $17.40
+Mod Price: $0.00
+Buyer: bellylama25
+Sale Date: 01/18/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 19,65,104,129,172,198,356,361
+-----------------------------------------
+Products Price: $400.00
+Shipping Price: $7.05
+Mod Price: $0.00
+Buyer: kibli1jh44
+Sale Date: 01/21/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 84,95,130,152,173,362
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: Ganushka
+Sale Date: 01/21/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 40,66,91,105,225,423
+-----------------------------------------
+Products Price: $585.00
+Shipping Price: $6.80
+Mod Price: $0.00
+Buyer: jalapeno68782012
+Sale Date: 01/21/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 41,77,92,106,174,339,424
+-----------------------------------------
+Products Price: $0.00
+Shipping Price: $0.00
+Mod Price: $0.00
+Buyer: UNACCOUNTED
+Sale Date: 01/21/12
+Sale ID: UNACCOUNTED
+Tracking #: 
+Ebay: true
+Product Indexes: 67
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.64
+Mod Price: $0.00
+Buyer: akmiller446
+Sale Date: 01/22/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 383
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.64
+Mod Price: $0.00
+Buyer: sjf8600
+Sale Date: 01/22/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 426
+-----------------------------------------
+Products Price: $420.00
+Shipping Price: $7.00
+Mod Price: $0.00
+Buyer: mistajayjay
+Sale Date: 01/28/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 42,107,175,232,363,432,435
+-----------------------------------------
+Products Price: $0.00
+Shipping Price: $1.65
+Mod Price: $0.00
+Buyer: REPLACEMENT TO
+Sale Date: 01/31/12
+Sale ID: CJAUREM
+Tracking #: 
+Ebay: false
+Product Indexes: 340
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.64
+Mod Price: $0.00
+Buyer: innercraft
+Sale Date: 01/31/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 427
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.64
+Mod Price: $0.00
+Buyer: clintm3
+Sale Date: 01/31/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 428
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.64
+Mod Price: $0.00
+Buyer: zfish87
+Sale Date: 01/31/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 429
+-----------------------------------------
+Products Price: $11.20
+Shipping Price: $1.64
+Mod Price: $0.00
+Buyer: kustom_workz
+Sale Date: 01/31/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 430
+-----------------------------------------
+Products Price: $100.00
+Shipping Price: $0.00
+Mod Price: $0.00
+Buyer: 
+Sale Date: 02/08/12
+Sale ID: 
+Tracking #: 
+Ebay: true
+Product Indexes: 457

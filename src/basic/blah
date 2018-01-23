@@ -1,0 +1,255 @@
+
+
+Icons----------------------------------------------
+	Inventory Tab----------------------------------
+		new sale			$
+		add to sale			arrow w/ $
+		view purchase		eye w/ shopping cart
+		view sale			eye w/ $
+		group				3 boxes/phones packed together
+		ungroup				3 boxes/phones spread apart
+	Purchase Tab-----------------------------------
+		add					plus sign  (w/ shopping cart?)
+		edit				pencil  (w/ shopping cart?)
+		delete				x or (/)  (w/ shopping cart?)
+		receive/UN-receive	hand?     un-recieve will have x or /
+		view products		eye w/ box, or phone
+	Sale Tab---------------------------------------
+		edit				pencil (w/ $?)
+		delete				x or (/)  (w/ $?)
+		view products		eye w/ box, or phone
+
+
+
+
+
+
+monthly selling limit
+inventory - warn if <=3 left
+save table stuff: column size, order, hidden columns, etc
+center spinner
+implement remove sorting - double click on sorted column
+keyboard shortcuts (Delete = delete selected)
+
+
+Purchase filter: ordered and received, ordered only, received only
+Purchase filter: view/hide "All Sold"
+Search filters - do not include date in the search
+
+
+
+
+
+autosave every hour
+	option to set autosave on and off
+
+fix header borders
+
+
+
+
+
+
+save filter settings
+
+
+
+
+MyTableModel - keep track of column widths
+	they keep resetting every updateDisplayedColumns
+	remember width before hiding column
+
+
+
+
+paste from ebay
+
+dont allow purchases with 1 product to be grouped
+	may need to rework purchase edit panel - changes applied upon losing focus or pressing enter
+
+
+add icon to JFrame
+exe - allows icons, Limit to only one instance
+
+
+
+
+----update 1.7 (2/14/2012)------------------------------------
+Tables - Greatly improved scrolling performance
+Purchase panel - adding a purchase now selects the new purchase, as well as scrolls to it if necessary
+Fixed bug - When "View Products" is pressed, if the products to be selected were not visible due to a filter, then the program crashed
+	Fix: if the products are not visible, first make them visible by resetting the filters to displayed all products
+Fixed bug - Editing a sale messed up the pointers for that sale
+Sale table - Product list (in the first column) now has spaces after commas
+Checks for pointer errors after EVERY event. If error occurs, an error message is displayed
+Sale Edit Panel - product table no longer shows group count in parentheses
+Product Panel - Disable "View Sale" button if a group is selected
+Added right click menus to all 3 tables
+Sales Tab - "Add to Sale" button
+	allows user to add products to an existing sale
+	adds all products which are checked to the sale which is highlighted
+	displays the sale edit dialog, highlighting the added products in the table to the right
+	hitting "OK" confirms the addition of products to that sale, as well as any other changes made
+	hitting "Cancel" removes any changes, including the addition of products
+Inventory Table - added 2 new columns: "Bought from" and "Sold to"
+Added icons to menus
+Added icons to buttons, removed text
+Sales Tab - revenue label no longer changes size when value changes
+	if the label changes size, it shifts all other components
+
+
+----update 1.6 (1/22/2012)--------------------
+Sale Edit Dialog - item list to the right upon expand
+	Allows removal of products from the sale
+Table Cells - when text doesn't fit into a cell, it is now displayed properly
+	Used to: omit the entire word which partially didn't fit, and left aligned the rest
+	Now: places "..." at the end, fits as much as possible
+Calculator - added "Clear" button
+Hide Money Info - double click top-right corner
+	Hides/reveals money columns in sale table and monthly revenue label
+
+
+
+
+----update 1.5.1 (1/22/2012)--------------
+Sale Tab - sales are now filtered by month
+	Displays total revenue for selected month only
+
+
+
+
+
+
+
+
+
+
+
+
+----update 1.5 (1/6/2011)----
+Removed "misc info"
+Tables - do not fill up all horizontal space
+Inventory table - do not allow un-received items to be checked
+Purchase - grouping
+	Inventory Table - if a purchase is grouped, only 1 group entry is shown
+		Group entry displays "quantity unsold" and "total quantity" following the product name
+			ex) iPhone Headphones(8/10) - 8 unsold, 10 total
+		Group entry does not show data which may vary within group: Sold Date, Status
+		Checking a "group entry" will check the first unsold item within the group
+	Inventory Table - right-click menu: Group/Ungroup
+	Purchase Edit Dialog - checkbox for grouping
+Calculator Tab - Gives the option to calculate revenue or sale value
+
+
+
+
+
+
+
+
+
+----update 1.4 (11/22/2011)----
+Sale tab - now displays total revenue
+Assembly line for selling - items to sell are now chosen via a check-box rather than selecting the row
+	Checked products stay checked even while not in view (row removed by filter).
+	Sold products may not be checked (table cell is un-editable)
+	Once a sale is completed, all checks are removed
+Loads ebay parameter properly
+Added a menu bar with a "File Menu", containing "Save" and "Exit"
+Clicking the save menu displays a message dialog if save was successful
+Tables extend right to fill entire width of the window
+Tables now have alternating striped rows instead of horizontal gridlines
+Column headers - improved look
+Purchase parameter added - category (base,mod,accessory,extra)
+Purchase edit dialog - category can now be edited
+Product filter - added "Ordered & Received"
+Product filter: category filter - all,base,mod,accessory,extra,other - default: base
+Date edit dialog - improved look
+Fixed Bug - changing filter used to always remove row selection, even if row is still visible
+Sales tab - Display total revenue
+Purchase edit dialog - Center aligned the quantity spinner
+All dialogs - Closing a dialog by hitting the "x" button now does the same thing as the "Cancel" button
+	Before, some x buttons didn't work, some caused a crash!
+
+
+
+
+
+
+
+
+
+
+
+
+----update 1.3 (10/24/2011)----
+Changed "Paypal" fee to "Ebay" fee
+Fixed bug: Scrollbar displayed incorrectly - overlapped the table
+Error when saving a sale: "Misc Info" on same line as "Ebay"
+Fixed bug: "View Sale" button didn't disable if that sale was deleted
+"Delete Sale" button now works
+"View Products", "View Sale", and "View Purchase" buttons now scroll to make newly selected items visible
+Inventory table - added column "Status"
+Inventory filter: ordered only, recevied only, sold only, all
+
+
+----update 1.2 (10/23/2011)----
+Correctly calculates profit, taking fees into account
+Added parameter to sale entries: "Mod Price", "Include Paypal Fees"
+Added parameter to purchase entries: "All Sold"
+"Purchase Edit Dialog" now allows editing of: "Purchase ID"
+"Sale Edit Dialog" now allows editing of: "Mod Price", "Sale ID", "Tracking #", "Paypal"
+Fixed bug: allowed "View Products" to be clicked while nothing is selected
+Fixed bug: editing purchase caused sale to lose reference to the products belonging to that purchase
+Fixed bug: did not properly deselect rows
+Added a cancel option to the save/exit dialog
+No longer allows product name to be blank
+Renamed sale column from "Products $" to "Sale $" to clarify
+Improved the User Interface
+	Improved appearance of all buttons, tabs, etc
+	Blue gradient background
+	Increased button height from 21 to 26
+	Column headers now light up when moused over, same way that regular buttons do
+	Changed the font to match the system font
+	Changed table background color from white to light blue
+	Changed table grid color from gray to black
+	Added titles to edit dialogs
+	Allow for choosing columns by right-clicking table header
+
+
+
+
+
+
+
+
+
+
+----update 1.1 (10/3/2011)----
+Can now save and load data. For now, loading is only done automatically upon starting the program
+Rather than displaying empty fields, display "????" with red font color
+In the purchase edit dialog, the product dropdown menu now allows selection of products previous bought
+Added parameters to sale entries: sale ID, tracking number, buyer
+Added parameters to purchase entries: purchase ID
+"Products" tab renamed to "Inventory"
+Changed tab order from Purchases,Products,Inventory to Products,Purchases,Sales
+Double click on a purchase opens edit menu
+Double click on a sale opens edit menu
+Fixed an issue with sale edit/delete buttons which used to cause them to stay disabled
+Prevent the sale of an un-received item with an error message instead of disabling the sell button
+Increased table header size from 16 to 26
+Fixed a typo: "invalid enteredprice"
+	
+
+
+
+
+
+
+
+
+
+
+
+
+
